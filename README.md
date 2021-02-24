@@ -2,6 +2,10 @@
 Notes app - MongoDB Atlas, Express, Vue.js + Vuetify, Node <br>
 Application in which you can register account, login, write and save your notes. Note can also be edited and deleted.
 
+# link to heroku
+```
+https://todo-mongo-express-vue-node.herokuapp.com/
+```
 # Project setup
 You will need to install dependencies both from root directory and client folder with command:
 ```
